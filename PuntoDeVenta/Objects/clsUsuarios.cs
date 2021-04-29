@@ -14,7 +14,7 @@ namespace PuntoDeVenta.Objects
         private string apellidos;
         private string password;
         private bool administrador;
-        // 
+        // z
         public int IDusuario
         {
             get
